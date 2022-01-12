@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @tomorris
+- I’m currently learning python and arduino
